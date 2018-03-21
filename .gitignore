@@ -1,0 +1,5 @@
+images/images.tar.gz
+images/*.png
+images/*.jpg
+test/test.tar.gz
+test/*.png
